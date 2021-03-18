@@ -2,7 +2,7 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #1e3d59;
+	background-color: #f6ead4;
 	font: 18px monospace;
 	height: 100%;
 }
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-	background-color: #f6ead4;
+	background-color: #1e3d59;
 	border-radius: 14px;
 	box-shadow: 0px 0px 5px 3px #16182077;
 	color: #ebdbb2;
@@ -159,7 +159,7 @@ h3::after {
 }
 
 .feed {
-	background-color: #ffd79d;
+	background-color: #EDE574;
 }
 
 .reddit {
