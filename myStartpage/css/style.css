@@ -2,7 +2,7 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #f6ead4;
+	background-color: #EFDECD;
 	font: 18px monospace;
 	height: 100%;
 }
@@ -129,7 +129,7 @@ h3::after {
 
 .linksbox {
 	text-align: center;
-	color: #f6ead4;
+	color: #EFDECD;
 	text-decoration: none;
 	width: 8em;
 	box-shadow: 5px 5px 3px rgba(27, 34, 38, 0.55);
@@ -168,7 +168,7 @@ h3::after {
 
 input {
 	background: none;
-	color: #f6ead4;
+	color: #EFDECD;
 	width: 15px;
 	font: inherit;
 	text-align: center;
@@ -179,7 +179,7 @@ input {
 }
 textarea:focus,
 input:focus {
-	color: #f6ead4;
+	color: #EFDECD;
 	outline: none;
 	width: 30%;
 }
