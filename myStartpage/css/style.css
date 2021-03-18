@@ -38,7 +38,7 @@ p #logo {
 }
 
 p #cursor {
-	background-color: #add8e6;
+	background-color: #ffffff00;
 	animation: blink 2s infinite;
 }
 @keyframes blink {
