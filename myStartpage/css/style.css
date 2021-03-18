@@ -2,7 +2,7 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #26282a;
+	background-color: #f5f0e1;
 	font: 18px monospace;
 	height: 100%;
 }
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-	background-color: #323334 ;
+	background-color: #1e3d59;
 	border-radius: 14px;
 	box-shadow: 0px 0px 5px 3px #16182077;
 	color: #ebdbb2;
@@ -143,27 +143,27 @@ h3::after {
 }
 
 .math {
-	background-color: #689d6a;
+	background-color: #d71b3b;
 }
 
 .\.\. {
-	background-color: #928374;
+	background-color: #d13ca4;
 }
 
 .linux {
-	background-color: #458588;
+	background-color: #FF4E50;
 }
 
 .social {
-	background-color: #b16286;
+	background-color: #ff6e40;
 }
 
 .feed {
-	background-color: #cc241d;
+	background-color: #F9D423 ;
 }
 
 .reddit {
-	background-color: #d65d0e;
+	background-color: #ffc13b;
 }
 
 input {
