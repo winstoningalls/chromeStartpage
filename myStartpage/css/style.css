@@ -143,27 +143,27 @@ h3::after {
 }
 
 .math {
-	background-color: #d71b3b;
-}
-
-.\.\. {
 	background-color: #d13ca4;
 }
 
+.\.\. {
+	background-color: #320d3e;
+}
+
 .linux {
-	background-color: #FF4E50;
+	background-color: #d71b3b;
 }
 
 .social {
-	background-color: #ff6e40;
+	background-color: #FF4E50;
 }
 
 .feed {
-	background-color: #EDE574;
+	background-color: #ffc13b;
 }
 
 .reddit {
-	background-color: #ffc13b;
+	background-color: #ff6e40;
 }
 
 input {
