@@ -2,7 +2,7 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #f5f0e1;
+	background-color: #1e3d59;
 	font: 18px monospace;
 	height: 100%;
 }
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-	background-color: #1e3d59;
+	background-color: #f6ead4;
 	border-radius: 14px;
 	box-shadow: 0px 0px 5px 3px #16182077;
 	color: #ebdbb2;
@@ -159,7 +159,7 @@ h3::after {
 }
 
 .feed {
-	background-color: #F9D423 ;
+	background-color: #ffd79d;
 }
 
 .reddit {
@@ -179,7 +179,7 @@ input {
 }
 textarea:focus,
 input:focus {
-	color: #ebdbb2;
+	color: #1e3d59;
 	outline: none;
 	width: 30%;
 }
